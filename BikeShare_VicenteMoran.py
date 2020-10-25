@@ -1,3 +1,7 @@
+### UDACITY Programming for Data Science Nanodegree project 2
+### Made by Vicente Moran
+
+
 import time
 import pandas as pd
 import numpy as np

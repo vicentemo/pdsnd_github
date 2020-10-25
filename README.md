@@ -9,7 +9,7 @@ Project 3 Udacity
 Upload Bikeshare project on git
 
 ### Files used
-Used 3 csv files with the names of:
+BikeShare_VicenteMoran.py
 Chicago.csv
 new_york_city.csv
 washington.csv

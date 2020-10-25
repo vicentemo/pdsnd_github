@@ -232,6 +232,8 @@ def display_data(df):
     Returns:
         None.
     """
+
+    #Ask the user if he wants to see the data
     YES_NO = ['yes', 'no']
     rdata = ''
     counter = 0

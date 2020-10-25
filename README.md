@@ -3,7 +3,7 @@ Created on 25/10/2020
 Updated on 26/10/2020
 
 ### Project Title
-Project 3 Udacity
+Programming for Data Science Nanodegree Project 3 Udacity Course 
 
 ### Description
 Upload Bikeshare project on git with proper git documentation.

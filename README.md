@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+Created on 25/10/2020
+Updated on 25/10/2020
 
 ### Project Title
-Replace the Project Title
+Project 3 Udacity
 
 ### Description
-Describe what your project is about and what it does
+Upload Bikeshare project on git
 
 ### Files used
-Include the files used
+Used 3 csv files with the names of:
+Chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Special credits to Udacity very usefull material, also the pandas documentation.
+https://pandas.pydata.org/docs/
 
